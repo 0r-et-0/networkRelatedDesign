@@ -1,4 +1,4 @@
-# networkRelatedDesign
+# Network Related Design
 Ipad connection script
 
 A faire dans glitch.me :
