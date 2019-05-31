@@ -10,4 +10,5 @@ Ipad connection script
 Pour que tout fonctionne il faut que vos écrans tournent tous avec le même script. Dans se script il y a une variable ID qui permet de définir la position de l'écran. 
 
 6) Au début de votre code pour vos écrans, ajouter le bout de code "detect ID".
-7)
+7) Puis dans votre foncition listen() ajouter le contenu du fichier "listen.js".
+8) Ajouter la fonction goToStartpage qui se trouve dans le fichie "goToStartPage.js" quelque par dans votre code.
